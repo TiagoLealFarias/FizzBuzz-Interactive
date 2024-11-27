@@ -1,5 +1,7 @@
 # FizzBuzz Interactive
 
+https://tiagolealfarias.github.io/FizzBuzz-Interactive/
+
 Welcome to **FizzBuzz Interactive**, a dynamic and responsive application to test numbers with the FizzBuzz logic. This project was developed with HTML, CSS, and JavaScript, focusing on user experience and interactivity.
 
 ## 🚀 Features
